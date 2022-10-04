@@ -15,7 +15,6 @@
   "engines": {
     "node": ">=12"
   },
-  "type": "module",
   "dependencies": {
     "axios": "^0.26.1",
     "axios-cookiejar-support": "^2.0.4",

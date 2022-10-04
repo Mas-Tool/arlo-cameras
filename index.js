@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _arlo = require('./lib/arlo.mjs');
+var _arlo = require('./lib/arlo.js');
 
 var _arlo2 = _interopRequireDefault(_arlo);
 
